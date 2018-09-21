@@ -1,4 +1,4 @@
-package com.hayashi2026.leetcode
+package com.hayashi2026.leetcode.map
 
 import java.util.*
 
